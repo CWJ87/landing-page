@@ -135,7 +135,47 @@ figcaption{
     text-align: end;
 }
 
+.sign-up{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    padding: 70px;
+}
+
+.info-container{
+    background-color: #3882f6;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    padding: 10px 80px;
+    gap: 60px;
+}
+
+.action h3{
+    color: #f9faf8;
+}
+
+.action p{
+    color: #e5e7eb;    
+}
+
+.info-container button{
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    color: #f9faf8;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    margin-top: 20px;    
+}
+
 header, 
 footer{
     background-color: #1f2937;
+}
+
+footer{
+    text-align: center;
+    color: #f9faf8;
 }
