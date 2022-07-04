@@ -13,7 +13,7 @@ The images below display what the webpage will look like and the fonts and color
 ![Fonts and Colors](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png)
 
 ## Photo Credits
-[@sawyerbengtson](https://unsplash.com/photos/tnv84LOjes4)
-[@chrisdickens](https://unsplash.com/photos/b9cRz523N9c)
-[@guillaumeissaly29](https://unsplash.com/photos/P9gHiFZ-QPs)
-[@smsee](https://unsplash.com/photos/VguAb_4yJ_Q)
+- [@sawyerbengtson](https://unsplash.com/photos/tnv84LOjes4)
+- [@chrisdickens](https://unsplash.com/photos/b9cRz523N9c)
+- [@guillaumeissaly29](https://unsplash.com/photos/P9gHiFZ-QPs)
+- [@smsee](https://unsplash.com/photos/VguAb_4yJ_Q)
