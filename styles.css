@@ -87,31 +87,29 @@ ul{
 }
 
 .chicago-images{
-    display: flex;    
-    gap: 30px;    
-    padding-bottom: 50px;
-}
-
-.chicago-images div{    
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;        
+    gap: 50px;
+    justify-content: center;
+    padding-bottom: 100px;;
 }
 
-.chicago-images img{
-    width: 150px;
-    height: 150px;
-    border: 5px solid #3882f6;
-    border-radius: 10px;
+.chicago-images div{
+    display: flex;        
+    flex-direction: column;
+    align-items: center;            
+}
+
+.chicago-images div img{
+    width: 200px;
+    height: 200px;
+    border: 4px solid #3882f6;
+    border-radius: 10px;    
 }
 
 .chicago-images div p{    
-    padding-left: 30px;
-    padding-right: 30px;
+    width: 200px;    
+    text-align: center;
 }
-
-
 
 header, 
 footer{
