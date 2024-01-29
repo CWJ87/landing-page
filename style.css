@@ -128,3 +128,39 @@ ul a {
     padding: 20px;
 }
 
+/* Call to action */
+.call-to-action {    
+    padding: 50px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cta-container {
+    background-color: #3882F6;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 5px;
+    padding: 20px 100px;
+    gap: 100px;    
+}
+
+.cta-container > .left p:nth-child(1) {
+    font-weight: bold;
+    color: white;
+}
+
+.cta-container > .left p:nth-child(2) {
+    color: #E5E7EB;
+}
+
+.cta-container > button {
+    align-self: flex-end;
+    background-color: #3882F6;
+    color: white;
+    width: 100px;   
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
