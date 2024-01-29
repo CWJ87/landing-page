@@ -89,6 +89,7 @@ ul a {
     align-items: center;
     justify-content: center;
     gap: 80px;
+    flex-wrap: wrap;
 }
 
 .info-container > .info {
@@ -101,5 +102,29 @@ ul a {
     border-radius: 10px;
     height: 110px;
     width: 110px;
+}
+
+/* Quote */
+.quote {
+    margin-top: 50px;
+    background-color: #E5E7EB;
+    padding: 80px 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.quote > blockquote {    
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
+    width: 45%;
+}
+
+.quote > footer {
+    text-align: right;    
+    width: 45%;
+    font-weight: bold;
+    padding: 20px;
 }
 
