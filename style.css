@@ -69,3 +69,37 @@ ul a {
     width: 100px;   
     padding: 5px;
 }
+
+/* Random information */
+.random-information {
+    padding: 40px;    
+    justify-content: center;
+    align-items: center;
+}
+.random-information > h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.info-container {
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+}
+
+.info-container > .info {
+    width: 100px;
+    text-align: center;
+}
+
+.info-container .box {
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+    height: 110px;
+    width: 110px;
+}
+
